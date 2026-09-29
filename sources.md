@@ -2,8 +2,8 @@
 
 確認日：2026-09-29（各調査ファイルの出典表に、ID・発行元・一次/参考の区分・取得方法の備考がある。本ファイルはURLの一覧）
 
-- **重複を除いたURL：198件**
-- **独立した発行元（ドメイン）：110件**（指示書の条件：全体で60件以上）
+- **重複を除いたURL：276件**
+- **独立した発行元（ドメイン）：149件**（指示書の条件：全体で60件以上）
 
 ## 1. ファイル別のURL / URLs by File
 
@@ -45,6 +45,90 @@
 - https://dansuki.jp/column/column1489/
 - https://ringo-nagano.net/owner/
 - https://www.takagi-nkkc.jp/eat/ringo-owner/
+
+### R7_detail
+
+- https://booth.pm/ja/search/%E6%83%85%E5%A0%B1%E2%85%A0%20%E5%85%B1%E9%80%9A%E3%83%86%E3%82%B9%E3%83%88
+- https://booth.pm/ja/search/%E6%83%85%E5%A0%B1I
+- https://booth.pm/ja/search/%E6%83%85%E5%A0%B1%E2%85%A0
+- https://booth.pm/ja/search/%E6%83%85%E5%A0%B1I%20%E9%AB%98%E6%A0%A1
+- https://booth.pm/ja/search/%E6%83%85%E5%A0%B1%E2%85%A0%20%E5%95%8F%E9%A1%8C
+- https://booth.pm/ja/search/%E5%85%B1%E9%80%9A%E3%83%86%E3%82%B9%E3%83%88%20%E6%83%85%E5%A0%B1
+- https://booth.pm/ja/search/IT%E3%83%91%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88
+- https://booth.pm/ja/search/%E6%8E%A2%E7%A9%B6
+- https://booth.pm/ja/search/%E6%8E%A2%E7%A9%B6%E5%AD%A6%E7%BF%92
+- https://booth.pm/ja/search/%E6%8E%A2%E7%A9%B6%20%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88
+- https://booth.pm/ja/search/%E7%B7%8F%E5%90%88%E7%9A%84%E3%81%AA%E6%8E%A2%E7%A9%B6%E3%81%AE%E6%99%82%E9%96%93
+- https://booth.pm/ja/search/%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%20%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88
+- https://booth.pm/ja/search/Google%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0
+- https://support.buffer.com/article/613-automating-rss-feeds-using-feedly-and-zapier
+- https://social-dog.net/en/pricing/
+- https://prtimes.jp/main/html/rd/p/000000025.000022240.html
+- https://ifttt.com/plans
+- https://jetpack.com/social/
+- https://www.facebook.com/business/help/205614130852988
+- https://www.facebook.com/business/help/942827662903020
+- https://www.lycbiz.com/jp/service/line-official-account/plan/
+- https://www.lancers.jp/c/sns/sns-cost/13136/
+- https://aic.pref.gunma.jp/kajyuen/orchard-list/meigetsu/gunma/
+- https://aic.pref.gunma.jp/kajyuen/
+- https://aic.pref.gunma.jp/kajyuen/calendar
+- https://www.ringodaigaku.com/main/hinshu/harvest_time.html
+- https://fruit-gari.com/numata-ringogari/
+- https://www.tabechoku.com/feature_articles/autumn_apple
+- https://www.ja-nagano.iijan.or.jp/farming/products/calendar/apple/
+- https://tabechoku.zendesk.com/hc/ja/articles/4803769152926
+- https://poke-m.zendesk.com/hc/ja/articles/360000208733
+- http://kaorien.cc/
+- https://www.tamuraen.com/variety/
+- https://gotoapplefarm.com/harvest/
+- https://item.rakuten.co.jp/f102067-numata/11_nrk-020501/
+- https://questant.jp/price/
+- https://support.google.com/docs/answer/139706?hl=ja
+- https://www.stat.go.jp/naruhodo/12_ppdac/plan/plan2.html
+- https://sukyojuku.com/joho1-questionnaire-design/
+- https://www.zenkojoken.jp/wp-content/uploads/2022/08/R3-5_kimura.pdf
+- https://blog.studyvalley.jp/2021/10/14/teaching-aids/
+- https://www.gakuji.co.jp/book/b10034025.html
+- https://www.pref.chiba.lg.jp/kyouiku/shidou/gakuryoku/tankyu/documents/gaidobook-zissen.pdf
+- https://prtimes.jp/main/html/rd/p/000000207.000047308.html
+- https://jr.mitou.org/
+- https://prtimes.jp/main/html/rd/p/000000018.000022934.html
+- https://u22procon.com/contest/
+- https://pckoshien.u-aizu.ac.jp/programming/
+- https://www.dnc.ac.jp/kyotsu/suii/R3_.html
+- https://www.kawai-publishing.jp/book/?isbn=978-4-7772-3102-7
+- https://akahon.net/book/detail/2734900
+- https://book.impress.co.jp/books/1125101133
+- https://www.sundaibunko.jp/contents/book/22526
+- https://www.obunsha.co.jp/product/detail/035262
+- https://www.mext.go.jp/a_menu/shotou/zyouhou/detail/1416756.htm
+- https://www.dnc.ac.jp/kyotsu/kako_shiken_jouhou/r7/r7_kentoujoukyou/r7mondai.html
+- https://sukyojuku.com/joho1-generative-ai-literacy/
+- https://group.gmo/news/article/9209/
+- https://edu.watch.impress.co.jp/docs/news/1635730.html
+- https://www.kyoiku.metro.tokyo.lg.jp/information/press/2025/12/2025122403
+- https://www.mext.go.jp/a_menu/other/mext_02412.html
+- https://benesse.jp/kyouiku/202503/20250306-1.html
+- https://sc-beginners.com/information-countermeasure/
+- https://zenn.dev/zenn/books/how-to-create-book/viewer/set-price
+- https://zenn.dev/topics/cloudflare?tab=books
+- https://zenn.dev/api/books?topicname=cloudflare&count=100
+- https://zenn.dev/api/search?q=Workers%20API%E3%82%AD%E3%83%BC&source=books
+- https://zenn.dev/topics/claudecode?tab=books
+- https://zenn.dev/api/books?topicname=claudecode&count=100
+- https://zenn.dev/topics/%E5%80%8B%E4%BA%BA%E9%96%8B%E7%99%BA?tab=books
+- https://gihyo.jp/book/2026/978-4-297-15438-7
+- https://inside.luchegroup.com/entry/2025/12/19/092803
+- https://www.notta.ai/pricing
+- https://clovanote.line.me/
+- https://prtimes.jp/main/html/rd/p/000000273.000017890.html
+- https://www.help-note.com/hc/ja/articles/15386354993561
+- https://developers.cloudflare.com/workers-ai/platform/pricing/
+- https://apps.ankiweb.net/
+- https://apps.apple.com/JP/app/id373493387
+- https://ankilot.com/view/?id=de3EryH4vh
+- https://github.com/qq542vev/convert-it-passport
 
 ### R8
 
@@ -120,7 +204,6 @@
 
 ### R9
 
-- https://www.dnc.ac.jp/kyotsu/suii/R3_.html
 - https://www.ipa.go.jp/shiken/reports/ip-oubo2025.html
 - https://www.ipa.go.jp/shiken/mondai-kaiotu/index.html
 - https://www.mext.go.jp/content/20221108-mxt_jogai02-000021518_001.pdf
@@ -164,7 +247,6 @@
 - https://buttondown.com/pricing
 - https://resend.com/pricing
 - https://resend.com/docs/dashboard/domains/introduction
-- https://www.lycbiz.com/jp/service/line-official-account/plan/
 - https://developers.line.biz/ja/docs/messaging-api/pricing/
 - https://www.lycbiz.com/jp/news/line-official-account/20260216/
 - https://platform.claude.com/docs/en/about-claude/pricing
@@ -176,7 +258,6 @@
 - https://ai.google.dev/gemini-api/docs/rate-limits
 - https://developers.openai.com/api/docs/pricing
 - https://developers.openai.com/api/docs/guides/safety-checks/under-18-api-guidance
-- https://developers.cloudflare.com/workers-ai/platform/pricing/
 - https://github.com/openai/whisper
 - https://voicevox.hiroshiba.jp/term/
 - https://voicevox.hiroshiba.jp/product/zundamon/
@@ -231,30 +312,38 @@
 
 | ドメイン | 件数 |
 |---|---|
-| support.google.com | 11 |
+| booth.pm | 17 |
+| zenn.dev | 13 |
+| support.google.com | 12 |
 | developers.facebook.com | 7 |
+| help-note.com | 7 |
 | developers.cloudflare.com | 6 |
-| help-note.com | 6 |
-| zenn.dev | 6 |
+| github.com | 6 |
+| prtimes.jp | 6 |
 | developers.google.com | 5 |
 | docs.github.com | 5 |
-| github.com | 5 |
-| booth.pm | 4 |
 | bunka.go.jp | 4 |
 | help.x.com | 4 |
 | inf.gunma-u.ac.jp | 4 |
 | qiita.com | 4 |
 | ai.google.dev | 3 |
+| aic.pref.gunma.jp | 3 |
 | booth.pixiv.help | 3 |
+| dnc.ac.jp | 3 |
 | docs.x.com | 3 |
 | huggingface.co | 3 |
 | ipa.go.jp | 3 |
+| mext.go.jp | 3 |
 | anthropic.com | 2 |
+| apps.apple.com | 2 |
+| book.impress.co.jp | 2 |
 | caa.go.jp | 2 |
 | devcommunity.x.com | 2 |
 | developer.chrome.com | 2 |
 | developers.openai.com | 2 |
-| dnc.ac.jp | 2 |
+| edu.watch.impress.co.jp | 2 |
+| facebook.com | 2 |
+| gihyo.jp | 2 |
 | gumroad.com | 2 |
 | gunma-u.ac.jp | 2 |
 | help.instagram.com | 2 |
@@ -263,9 +352,10 @@
 | lemonsqueezy.com | 2 |
 | lycbiz.com | 2 |
 | note.com | 2 |
-| prtimes.jp | 2 |
 | resend.com | 2 |
 | stability.ai | 2 |
+| sukyojuku.com | 2 |
+| tamuraen.com | 2 |
 | vercel.com | 2 |
 | voicevox.hiroshiba.jp | 2 |
 | www3.jitec.ipa.go.jp | 2 |
@@ -273,14 +363,18 @@
 | af.moshimo.com | 1 |
 | affiliate.amazon.co.jp | 1 |
 | affiliate.rakuten.co.jp | 1 |
+| akahon.net | 1 |
+| ankilot.com | 1 |
 | anko.education | 1 |
-| apps.apple.com | 1 |
+| apps.ankiweb.net | 1 |
 | azumino-e-tabi.net | 1 |
-| book.impress.co.jp | 1 |
+| benesse.jp | 1 |
+| blog.studyvalley.jp | 1 |
 | buffer.com | 1 |
 | buttondown.com | 1 |
 | chiilabo.com | 1 |
 | city.tondabayashi.lg.jp | 1 |
+| clovanote.line.me | 1 |
 | comfyui-wiki.com | 1 |
 | creator.line.me | 1 |
 | dansuki.jp | 1 |
@@ -288,56 +382,82 @@
 | developers.line.biz | 1 |
 | dncl.jp | 1 |
 | docs.ollama.com | 1 |
-| edu.watch.impress.co.jp | 1 |
 | eftc.or.jp | 1 |
 | ffmpeg.org | 1 |
 | forest.watch.impress.co.jp | 1 |
+| fruit-gari.com | 1 |
 | fukuno.jig.jp | 1 |
-| gihyo.jp | 1 |
+| gakuji.co.jp | 1 |
 | googleworkspace.tscloud.co.jp | 1 |
+| gotoapplefarm.com | 1 |
+| group.gmo | 1 |
 | help.qiita.com | 1 |
 | helpfeel.com | 1 |
+| ifttt.com | 1 |
 | iizuna-furusato.com | 1 |
 | info-study.jp | 1 |
 | info.zenn.dev | 1 |
+| inside.luchegroup.com | 1 |
 | iqat-1.com | 1 |
+| item.rakuten.co.jp | 1 |
 | itpassportsiken.com | 1 |
+| ja-nagano.iijan.or.jp | 1 |
+| jetpack.com | 1 |
 | joho1-exam-quiz.com | 1 |
+| jr.mitou.org | 1 |
 | jsite.mhlw.go.jp | 1 |
-| mext.go.jp | 1 |
+| kaorien.cc | 1 |
+| kawai-publishing.jp | 1 |
+| kyoiku.metro.tokyo.lg.jp | 1 |
+| lancers.jp | 1 |
+| notta.ai | 1 |
 | nta.go.jp | 1 |
 | numata-kankou.jp | 1 |
+| obunsha.co.jp | 1 |
 | oishiinumata.jp | 1 |
 | ollama.com | 1 |
 | opentracks.com | 1 |
+| pckoshien.u-aizu.ac.jp | 1 |
 | platform.claude.com | 1 |
 | play.google.com | 1 |
+| poke-m.zendesk.com | 1 |
 | post-mesh.com | 1 |
+| pref.chiba.lg.jp | 1 |
 | press.monaca.io | 1 |
 | pressnet.or.jp | 1 |
+| questant.jp | 1 |
 | rakumo.com | 1 |
 | raw.githubusercontent.com | 1 |
 | remotion.pro | 1 |
 | reseed.resemom.jp | 1 |
 | revenuecat.com | 1 |
 | ringo-nagano.net | 1 |
+| ringodaigaku.com | 1 |
 | saastr.com | 1 |
 | samsung.com | 1 |
+| sc-beginners.com | 1 |
 | sekachan.net | 1 |
+| social-dog.net | 1 |
+| stat.go.jp | 1 |
 | stripe.com | 1 |
 | sugoyose.jp | 1 |
+| sundaibunko.jp | 1 |
 | support.a8.net | 1 |
+| support.buffer.com | 1 |
 | support.claude.com | 1 |
 | support.stripe.com | 1 |
 | t-daimon.jp | 1 |
+| tabechoku.com | 1 |
+| tabechoku.zendesk.com | 1 |
 | takagi-nkkc.jp | 1 |
-| tamuraen.com | 1 |
 | techcrunch.com | 1 |
 | techweez.com | 1 |
 | terms.help-note.com | 1 |
 | tomshardware.com | 1 |
+| u22procon.com | 1 |
 | we-love.gunma.jp | 1 |
 | web-kanji.com | 1 |
 | x.com | 1 |
 | yosetti.com | 1 |
 | yotsuyagakuin.com | 1 |
+| zenkojoken.jp | 1 |
