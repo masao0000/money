@@ -2,8 +2,8 @@
 
 確認日：2026-09-29（各調査ファイルの出典表に、ID・発行元・一次/参考の区分・取得方法の備考がある。本ファイルはURLの一覧）
 
-- **重複を除いたURL：191件**
-- **独立した発行元（ドメイン）：107件**（指示書の条件：全体で60件以上）
+- **重複を除いたURL：198件**
+- **独立した発行元（ドメイン）：110件**（指示書の条件：全体で60件以上）
 
 ## 1. ファイル別のURL / URLs by File
 
@@ -214,6 +214,19 @@
 - https://zenn.dev/maechan/articles/1e90e34de6abed
 - https://press.monaca.io/atsushi/37490
 
+### 05_redteam
+
+- https://helpfeel.com/mitoujr/%E5%BF%9C%E5%8B%9F%E6%95%B0%E3%82%84%E6%8E%A1%E6%8A%9E%E6%95%B0%E3%80%81%E5%80%8D%E7%8E%87%E3%81%AF%E3%81%A9%E3%81%AE%E3%81%8F%E3%82%89%E3%81%84%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F-608c0281183ed4001c71ddcf
+- https://www.inf.gunma-u.ac.jp/admission/schedule/
+- https://www.inf.gunma-u.ac.jp/program/society/
+- https://www.inf.gunma-u.ac.jp/about/policy/
+- https://www.gunma-u.ac.jp/wp-content/uploads/2025/10/2026suisen2.pdf
+- https://www.yotsuyagakuin.com/b_geneki/kyotsu-test-jouhou/
+
+### FINAL_REPORT
+
+- https://www.gunma-u.ac.jp/admission/adm001/g2099
+
 ## 2. ドメイン別の件数 / Count by Domain
 
 | ドメイン | 件数 |
@@ -229,6 +242,7 @@
 | booth.pm | 4 |
 | bunka.go.jp | 4 |
 | help.x.com | 4 |
+| inf.gunma-u.ac.jp | 4 |
 | qiita.com | 4 |
 | ai.google.dev | 3 |
 | booth.pixiv.help | 3 |
@@ -242,6 +256,7 @@
 | developers.openai.com | 2 |
 | dnc.ac.jp | 2 |
 | gumroad.com | 2 |
+| gunma-u.ac.jp | 2 |
 | help.instagram.com | 2 |
 | kdp.amazon.co.jp | 2 |
 | laws.e-gov.go.jp | 2 |
@@ -281,8 +296,8 @@
 | gihyo.jp | 1 |
 | googleworkspace.tscloud.co.jp | 1 |
 | help.qiita.com | 1 |
+| helpfeel.com | 1 |
 | iizuna-furusato.com | 1 |
-| inf.gunma-u.ac.jp | 1 |
 | info-study.jp | 1 |
 | info.zenn.dev | 1 |
 | iqat-1.com | 1 |
@@ -325,3 +340,4 @@
 | web-kanji.com | 1 |
 | x.com | 1 |
 | yosetti.com | 1 |
+| yotsuyagakuin.com | 1 |
