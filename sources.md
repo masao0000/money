@@ -2,11 +2,49 @@
 
 確認日：2026-09-29（各調査ファイルの出典表に、ID・発行元・一次/参考の区分・取得方法の備考がある。本ファイルはURLの一覧）
 
-- **重複を除いたURL：178件**
-- **独立した発行元（ドメイン）：96件**（指示書の条件：全体で60件以上）
+- **重複を除いたURL：191件**
+- **独立した発行元（ドメイン）：107件**（指示書の条件：全体で60件以上）
 
 ## 1. ファイル別のURL / URLs by File
 
+
+### R7
+
+- https://apps.apple.com/jp/app/%E6%83%85%E5%A0%B1-%E4%B8%80%E5%95%8F%E4%B8%80%E7%AD%94-%E6%BC%94%E7%BF%92%E5%95%8F%E9%A1%8C/id6566171417
+- https://play.google.com/store/apps/details?id=com.complete.zyouhou&hl=ja
+- https://info-study.jp/kyotsu-info1-exercise/
+- https://joho1-exam-quiz.com/
+- https://iqat-1.com/
+- https://sekachan.net/info1-exercise/
+- https://book.impress.co.jp/books/1122101180
+- https://gihyo.jp/book/2025/978-4-297-15084-6
+- https://www.itpassportsiken.com/ipkakomon.php
+- https://dncl.jp/
+- https://t-daimon.jp/XTetra/
+- https://github.com/y-taka-23/dncl-playground
+- https://forest.watch.impress.co.jp/docs/news/1359004.html
+- https://anko.education/tool/wapen
+- https://qiita.com/architectJapan/items/cd95b5b2c3f53cab411a
+- https://zenn.dev/yusukebe/articles/647aa9ba8c1550
+- https://zenn.dev/sonicmoov/articles/98047cfb394da0
+- https://www.numata-kankou.jp/fruit/apple/index.html
+- https://we-love.gunma.jp/leisure/ringo
+- https://www.oishiinumata.jp/zukan/ringo/index.html
+- https://chiilabo.com/2025-04/instagram-share-threads-connection/
+- https://buffer.com/pricing
+- https://note.com/multipost_fs/n/n1ceaddd46607
+- https://post-mesh.com/articles/sns-cross-posting
+- https://www.yosetti.com/guide/price/
+- https://sugoyose.jp/about
+- https://www.samsung.com/jp/support/mobile-devices/how-to-use-transcribe-assist-on-the-galaxy-s24/
+- https://rakumo.com/gsuite/gws-hint/gemini/form-help-me-create/
+- https://googleworkspace.tscloud.co.jp/gemini/forms
+- https://www.iizuna-furusato.com/yukimuro
+- https://azumino-e-tabi.net/ringo
+- https://www.tamuraen.com/farm/
+- https://dansuki.jp/column/column1489/
+- https://ringo-nagano.net/owner/
+- https://www.takagi-nkkc.jp/eat/ringo-owner/
 
 ### R8
 
@@ -87,17 +125,6 @@
 - https://www.ipa.go.jp/shiken/mondai-kaiotu/index.html
 - https://www.mext.go.jp/content/20221108-mxt_jogai02-000021518_001.pdf
 - https://reseed.resemom.jp/article/2022/11/09/5019.html
-- https://apps.apple.com/jp/app/%E6%83%85%E5%A0%B1-%E4%B8%80%E5%95%8F%E4%B8%80%E7%AD%94-%E6%BC%94%E7%BF%92%E5%95%8F%E9%A1%8C/id6566171417
-- https://play.google.com/store/apps/details?id=com.complete.zyouhou&hl=ja
-- https://info-study.jp/kyotsu-info1-exercise/
-- https://joho1-exam-quiz.com/
-- https://iqat-1.com/
-- https://gihyo.jp/book/2025/978-4-297-15084-6
-- https://dncl.jp/
-- https://t-daimon.jp/XTetra/
-- https://github.com/y-taka-23/dncl-playground
-- https://forest.watch.impress.co.jp/docs/news/1359004.html
-- https://anko.education/tool/wapen
 - https://note.com/info/n/nbdc8496a3aac
 - https://prtimes.jp/main/html/rd/p/000000360.000017890.html
 - https://techweez.com/2026/09/09/x-revenue-sharing-original-content-rewards/
@@ -182,21 +209,10 @@
 ### OC（メインセッションの確認）
 
 - https://www.inf.gunma-u.ac.jp/access/
-- https://www.iizuna-furusato.com/yukimuro
-- https://azumino-e-tabi.net/ringo
-- https://dansuki.jp/column/column1489/
-- https://ringo-nagano.net/owner/
-- https://www.takagi-nkkc.jp/eat/ringo-owner/
 - https://web-kanji.com/posts/homepage-lease
-- https://www.numata-kankou.jp/fruit/apple/index.html
-- https://www.tamuraen.com/farm/
-- https://www.yosetti.com/guide/price/
-- https://sugoyose.jp/about
 - https://fukuno.jig.jp/4525
-- https://zenn.dev/yusukebe/articles/647aa9ba8c1550
 - https://zenn.dev/maechan/articles/1e90e34de6abed
 - https://press.monaca.io/atsushi/37490
-- https://qiita.com/architectJapan/items/cd95b5b2c3f53cab411a
 
 ## 2. ドメイン別の件数 / Count by Domain
 
@@ -206,10 +222,10 @@
 | developers.facebook.com | 7 |
 | developers.cloudflare.com | 6 |
 | help-note.com | 6 |
+| zenn.dev | 6 |
 | developers.google.com | 5 |
 | docs.github.com | 5 |
 | github.com | 5 |
-| zenn.dev | 5 |
 | booth.pm | 4 |
 | bunka.go.jp | 4 |
 | help.x.com | 4 |
@@ -231,6 +247,7 @@
 | laws.e-gov.go.jp | 2 |
 | lemonsqueezy.com | 2 |
 | lycbiz.com | 2 |
+| note.com | 2 |
 | prtimes.jp | 2 |
 | resend.com | 2 |
 | stability.ai | 2 |
@@ -244,7 +261,10 @@
 | anko.education | 1 |
 | apps.apple.com | 1 |
 | azumino-e-tabi.net | 1 |
+| book.impress.co.jp | 1 |
+| buffer.com | 1 |
 | buttondown.com | 1 |
+| chiilabo.com | 1 |
 | city.tondabayashi.lg.jp | 1 |
 | comfyui-wiki.com | 1 |
 | creator.line.me | 1 |
@@ -259,30 +279,36 @@
 | forest.watch.impress.co.jp | 1 |
 | fukuno.jig.jp | 1 |
 | gihyo.jp | 1 |
+| googleworkspace.tscloud.co.jp | 1 |
 | help.qiita.com | 1 |
 | iizuna-furusato.com | 1 |
 | inf.gunma-u.ac.jp | 1 |
 | info-study.jp | 1 |
 | info.zenn.dev | 1 |
 | iqat-1.com | 1 |
+| itpassportsiken.com | 1 |
 | joho1-exam-quiz.com | 1 |
 | jsite.mhlw.go.jp | 1 |
 | mext.go.jp | 1 |
-| note.com | 1 |
 | nta.go.jp | 1 |
 | numata-kankou.jp | 1 |
+| oishiinumata.jp | 1 |
 | ollama.com | 1 |
 | opentracks.com | 1 |
 | platform.claude.com | 1 |
 | play.google.com | 1 |
+| post-mesh.com | 1 |
 | press.monaca.io | 1 |
 | pressnet.or.jp | 1 |
+| rakumo.com | 1 |
 | raw.githubusercontent.com | 1 |
 | remotion.pro | 1 |
 | reseed.resemom.jp | 1 |
 | revenuecat.com | 1 |
 | ringo-nagano.net | 1 |
 | saastr.com | 1 |
+| samsung.com | 1 |
+| sekachan.net | 1 |
 | stripe.com | 1 |
 | sugoyose.jp | 1 |
 | support.a8.net | 1 |
@@ -295,6 +321,7 @@
 | techweez.com | 1 |
 | terms.help-note.com | 1 |
 | tomshardware.com | 1 |
+| we-love.gunma.jp | 1 |
 | web-kanji.com | 1 |
 | x.com | 1 |
 | yosetti.com | 1 |
