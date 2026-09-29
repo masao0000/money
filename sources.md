@@ -2,8 +2,8 @@
 
 確認日：2026-09-29（各調査ファイルの出典表に、ID・発行元・一次/参考の区分・取得方法の備考がある。本ファイルはURLの一覧）
 
-- **重複を除いたURL：291件**
-- **独立した発行元（ドメイン）：159件**（指示書の条件：全体で60件以上）
+- **重複を除いたURL：304件**
+- **独立した発行元（ドメイン）：171件**（指示書の条件：全体で60件以上）
 
 ## 1. ファイル別のURL / URLs by File
 
@@ -322,6 +322,22 @@
 - https://www.u-can.co.jp/info/affiliate/index.html
 - https://www.accesstrade.ne.jp/faq/before/detail/31
 
+### 10_money_only
+
+- https://jsite.mhlw.go.jp/shizuoka-roudoukyoku/content/contents/001307499.pdf
+- https://aichi-elcc.mhlw.go.jp/roudou_hourei/4491/
+- https://worker-help.timee.co.jp/hc/ja/articles/16781599900697
+- https://crowdworks.my.salesforce-sites.com/faq/articles/FAQ/10175?l=ja&url=10175
+- https://coconala-support.zendesk.com/hc/ja/articles/360003747094
+- https://help.coconala.com/hc/ja/articles/230180287
+- https://coconala.com/magazine/43372
+- https://jp-news.mercari.com/contents/26374
+- https://www.baitoru.com/contents/list/detail/id=3158
+- https://www.japanpost.jp/employment/arbeit/
+- https://jp.stanby.com/r_2d0550f8d885a0872455ce238e088fc3
+- https://www.gov-online.go.jp/prg/prg27114.html
+- https://www.npa.go.jp/bureau/safetylife/yamibaito/hanzaishaboshu.html
+
 ### FINAL_REPORT
 
 - https://www.gunma-u.ac.jp/admission/adm001/g2099
@@ -368,6 +384,7 @@
 | gunma-u.ac.jp | 2 |
 | help.instagram.com | 2 |
 | jafp.or.jp | 2 |
+| jsite.mhlw.go.jp | 2 |
 | kdp.amazon.co.jp | 2 |
 | laws.e-gov.go.jp | 2 |
 | lemonsqueezy.com | 2 |
@@ -384,11 +401,13 @@
 | af.moshimo.com | 1 |
 | affiliate.amazon.co.jp | 1 |
 | affiliate.rakuten.co.jp | 1 |
+| aichi-elcc.mhlw.go.jp | 1 |
 | akahon.net | 1 |
 | ankilot.com | 1 |
 | anko.education | 1 |
 | apps.ankiweb.net | 1 |
 | azumino-e-tabi.net | 1 |
+| baitoru.com | 1 |
 | benesse.jp | 1 |
 | blog.studyvalley.jp | 1 |
 | buffer.com | 1 |
@@ -396,8 +415,11 @@
 | chiilabo.com | 1 |
 | city.tondabayashi.lg.jp | 1 |
 | clovanote.line.me | 1 |
+| coconala-support.zendesk.com | 1 |
+| coconala.com | 1 |
 | comfyui-wiki.com | 1 |
 | creator.line.me | 1 |
+| crowdworks.my.salesforce-sites.com | 1 |
 | dansuki.jp | 1 |
 | dev-discuss.pytorch.org | 1 |
 | developers.line.biz | 1 |
@@ -412,7 +434,9 @@
 | googleworkspace.tscloud.co.jp | 1 |
 | gotoapplefarm.com | 1 |
 | goukaku.retio.or.jp | 1 |
+| gov-online.go.jp | 1 |
 | group.gmo | 1 |
+| help.coconala.com | 1 |
 | help.qiita.com | 1 |
 | helpfeel.com | 1 |
 | ifttt.com | 1 |
@@ -425,16 +449,19 @@
 | itpassport.gihyo.jp | 1 |
 | itpassportsiken.com | 1 |
 | ja-nagano.iijan.or.jp | 1 |
+| japanpost.jp | 1 |
 | jetpack.com | 1 |
 | joho1-exam-quiz.com | 1 |
+| jp-news.mercari.com | 1 |
+| jp.stanby.com | 1 |
 | jr.mitou.org | 1 |
-| jsite.mhlw.go.jp | 1 |
 | kaorien.cc | 1 |
 | kawai-publishing.jp | 1 |
 | kentei.ne.jp | 1 |
 | kyoiku.metro.tokyo.lg.jp | 1 |
 | lancers.jp | 1 |
 | notta.ai | 1 |
+| npa.go.jp | 1 |
 | nta.go.jp | 1 |
 | numata-kankou.jp | 1 |
 | obunsha.co.jp | 1 |
@@ -485,6 +512,7 @@
 | u22procon.com | 1 |
 | we-love.gunma.jp | 1 |
 | web-kanji.com | 1 |
+| worker-help.timee.co.jp | 1 |
 | x.com | 1 |
 | yosetti.com | 1 |
 | yotsuyagakuin.com | 1 |
