@@ -6,16 +6,21 @@
 本人の追加指示により、対象を「**PCで完結・手放しで回る・本人のノウハウを生かす**」収益化に絞り直した（`00_assumptions.md` 冒頭）。
 
 ## 完了
-- [x] Phase 0：フォルダ作成、`money_prompt.md` 保存、`00_assumptions.md`、タスク登録
-- [x] Phase 1：`01_assets.md`（交差点27個・弱み15個）→ ノウハウ視点の追記が必要
+- [x] Phase 0：フォルダ作成、`money_prompt.md`、`00_assumptions.md`、タスク登録
+- [x] Phase 1：`01_assets.md`（交差点27個＋PC完結型の交差点10個、弱み20個）
+- [x] Phase 2：R8（規約・未成年）、R9（需要。メインで作成）、R10（自動化コスト）、`summary.md`、`sources.md`（URL178件・発行元96件）
+- [x] Phase 3：`03_ideas.md`（85案）
+- [x] Phase 4：`04_scoring.md`（67案を採点、上位15案の3ケース試算）
+- [x] Phase 5：`05_redteam.md`（5つの立場の批判、改良案16個、上位5案）
 
 ## 進行中
-- [ ] Phase 1 追記：ノウハウ資産とPC完結型の交差点
-- [ ] Phase 2：R1〜R6（初期範囲）＋ R8〜R10（新しい範囲）をサブエージェントで並列調査中
+- [ ] Phase 5：R7（競合調査）のサブエージェントの結果待ち → 届いたら `sources.md` を再生成
+- [ ] Phase 6：`06_top3_plans.md`（M01・M16・M04 ＋ 推薦・GIAの柱 M03）
 
 ## 次にやること
-- Phase 2 の結果から `02_research/summary.md`・`sources.md`
-- Phase 3（PC完結型の案を60以上）以降
+- Phase 7：`07_kit/`（1位 M01 のキット）
+- Phase 8：`FINAL_REPORT.md` と自己点検2周
 
 ## 残りの課題
+- R1〜R6（初期範囲の調査）はサブエージェントが安全確認サーバーの不調の影響を受け未着。範囲変更後の判断に必要な事実は R8〜R10 とメインの確認で補った
 - リモートにベースブランチ（main）がないため、PR作成は保留になる可能性あり
