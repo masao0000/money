@@ -2,8 +2,8 @@
 
 確認日：2026-09-29（各調査ファイルの出典表に、ID・発行元・一次/参考の区分・取得方法の備考がある。本ファイルはURLの一覧）
 
-- **重複を除いたURL：276件**
-- **独立した発行元（ドメイン）：149件**（指示書の条件：全体で60件以上）
+- **重複を除いたURL：291件**
+- **独立した発行元（ドメイン）：159件**（指示書の条件：全体で60件以上）
 
 ## 1. ファイル別のURL / URLs by File
 
@@ -304,6 +304,24 @@
 - https://www.gunma-u.ac.jp/wp-content/uploads/2025/10/2026suisen2.pdf
 - https://www.yotsuyagakuin.com/b_geneki/kyotsu-test-jouhou/
 
+### 09_certs_expansion
+
+- https://www.jafp.or.jp/exam/mohan/files/exam_riyou.pdf
+- https://www.kinzai.or.jp/ginou/license_terms.html
+- https://www.jafp.or.jp/exam/files/2fp_cbt.pdf
+- https://www.kinzai.or.jp/fp/news-fp/47740.html
+- https://www.kinzai.or.jp/fp/news-fp/48783.html
+- https://goukaku.retio.or.jp/exam/pdf_2025_1_UWbaZCx6hm/2025result.pdf
+- https://www.retio.or.jp/exam/past_ques_ans/other/
+- https://www.kentei.ne.jp/44844
+- https://www.ipa.go.jp/shiken/reports/toukei_all.html
+- https://itpassport.gihyo.jp/archives/3656
+- https://note.com/lemonsoft/n/n46746bd463ef
+- https://takken-siken.com/marubatu.php
+- https://studying.jp/affiliate.html
+- https://www.u-can.co.jp/info/affiliate/index.html
+- https://www.accesstrade.ne.jp/faq/before/detail/31
+
 ### FINAL_REPORT
 
 - https://www.gunma-u.ac.jp/admission/adm001/g2099
@@ -325,6 +343,7 @@
 | bunka.go.jp | 4 |
 | help.x.com | 4 |
 | inf.gunma-u.ac.jp | 4 |
+| ipa.go.jp | 4 |
 | qiita.com | 4 |
 | ai.google.dev | 3 |
 | aic.pref.gunma.jp | 3 |
@@ -332,8 +351,9 @@
 | dnc.ac.jp | 3 |
 | docs.x.com | 3 |
 | huggingface.co | 3 |
-| ipa.go.jp | 3 |
+| kinzai.or.jp | 3 |
 | mext.go.jp | 3 |
+| note.com | 3 |
 | anthropic.com | 2 |
 | apps.apple.com | 2 |
 | book.impress.co.jp | 2 |
@@ -347,11 +367,11 @@
 | gumroad.com | 2 |
 | gunma-u.ac.jp | 2 |
 | help.instagram.com | 2 |
+| jafp.or.jp | 2 |
 | kdp.amazon.co.jp | 2 |
 | laws.e-gov.go.jp | 2 |
 | lemonsqueezy.com | 2 |
 | lycbiz.com | 2 |
-| note.com | 2 |
 | resend.com | 2 |
 | stability.ai | 2 |
 | sukyojuku.com | 2 |
@@ -360,6 +380,7 @@
 | voicevox.hiroshiba.jp | 2 |
 | www3.jitec.ipa.go.jp | 2 |
 | about.fb.com | 1 |
+| accesstrade.ne.jp | 1 |
 | af.moshimo.com | 1 |
 | affiliate.amazon.co.jp | 1 |
 | affiliate.rakuten.co.jp | 1 |
@@ -390,6 +411,7 @@
 | gakuji.co.jp | 1 |
 | googleworkspace.tscloud.co.jp | 1 |
 | gotoapplefarm.com | 1 |
+| goukaku.retio.or.jp | 1 |
 | group.gmo | 1 |
 | help.qiita.com | 1 |
 | helpfeel.com | 1 |
@@ -400,6 +422,7 @@
 | inside.luchegroup.com | 1 |
 | iqat-1.com | 1 |
 | item.rakuten.co.jp | 1 |
+| itpassport.gihyo.jp | 1 |
 | itpassportsiken.com | 1 |
 | ja-nagano.iijan.or.jp | 1 |
 | jetpack.com | 1 |
@@ -408,6 +431,7 @@
 | jsite.mhlw.go.jp | 1 |
 | kaorien.cc | 1 |
 | kawai-publishing.jp | 1 |
+| kentei.ne.jp | 1 |
 | kyoiku.metro.tokyo.lg.jp | 1 |
 | lancers.jp | 1 |
 | notta.ai | 1 |
@@ -430,6 +454,7 @@
 | raw.githubusercontent.com | 1 |
 | remotion.pro | 1 |
 | reseed.resemom.jp | 1 |
+| retio.or.jp | 1 |
 | revenuecat.com | 1 |
 | ringo-nagano.net | 1 |
 | ringodaigaku.com | 1 |
@@ -440,6 +465,7 @@
 | social-dog.net | 1 |
 | stat.go.jp | 1 |
 | stripe.com | 1 |
+| studying.jp | 1 |
 | sugoyose.jp | 1 |
 | sundaibunko.jp | 1 |
 | support.a8.net | 1 |
@@ -450,10 +476,12 @@
 | tabechoku.com | 1 |
 | tabechoku.zendesk.com | 1 |
 | takagi-nkkc.jp | 1 |
+| takken-siken.com | 1 |
 | techcrunch.com | 1 |
 | techweez.com | 1 |
 | terms.help-note.com | 1 |
 | tomshardware.com | 1 |
+| u-can.co.jp | 1 |
 | u22procon.com | 1 |
 | we-love.gunma.jp | 1 |
 | web-kanji.com | 1 |
