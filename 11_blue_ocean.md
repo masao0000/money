@@ -78,6 +78,7 @@
 
 ### 4-4. 手放し度 / How Hands-Off
 - 作る時期：30〜50時間【推定】。AI（Claude Codeなど）にLuau（Robloxのプログラミング言語）を書かせれば短くできる。
+- 【事実】Roblox Studioには公式のMCPサーバーが組み込まれ、Claude Code から Studio の中の物を作る・プロパティを変える・Luauを実行する・テストプレイする、といった操作ができる（Roblox の GitHub・解説記事、2026年）。ファイルで管理したい場合は Rojo（ローカルのLuauファイルを Studio に同期する道具）も使える。→ **本人がすでに使っている Claude Code の開発の流れをそのまま使える**。
 - 公開後：報酬は自動で入る。直すのは不具合だけ（週0〜1時間）。季節のイベントの更新は任意。
 
 ### 4-5. 計画（週5時間まで、凍結期間を守る）/ Plan
@@ -130,6 +131,8 @@
 | UGCの作り手の条件（13歳以上・身分証の確認か保護者のアカウント連携・Premium 1000以上・出品750 Robux） | https://create.roblox.com/docs/marketplace/frequently-asked-questions | 一次（検索抜粋） |
 | Roblox says on track to pay out $1B to creators in 2025 | https://www.tipranks.com/news/the-fly/roblox-says-on-track-to-pay-out-1b-to-creators-in-2025-thefly | 参考（報道） |
 | ゲームパスの売上の分け方（70%/30%） | https://rolearn.dev/insights/roblox-developer-revenue-share-2026/ | 参考 |
+| Roblox Studio MCP Server（公式） | https://github.com/Roblox/studio-rust-mcp-server | 一次（検索結果） |
+| Claude AI for Roblox Studio: Chat & MCP Workflows (2026) | https://www.obby.fun/blog/claude-ai-roblox-studio | 参考 |
 | ひみつのおるすばん：Secret Staycation（コミュニティ） | https://www.roblox.com/communities/33331483/Secret-Staycation | 一次（検索結果） |
 | ひみつのおるすばん制作者へのインタビュー | https://roblog.jp/studio/himitsu-interview/ | 参考 |
 | 2026年、なぜ今Roblox日本市場に参入すべきなのか（スクールの宣伝記事） | https://dca-japan.jp/roblox-japan-market-2026/ | 参考（宣伝を含む） |

@@ -2,8 +2,8 @@
 
 確認日：2026-09-29（各調査ファイルの出典表に、ID・発行元・一次/参考の区分・取得方法の備考がある。本ファイルはURLの一覧）
 
-- **重複を除いたURL：325件**
-- **独立した発行元（ドメイン）：188件**（指示書の条件：全体で60件以上）
+- **重複を除いたURL：327件**
+- **独立した発行元（ドメイン）：189件**（指示書の条件：全体で60件以上）
 
 ## 1. ファイル別のURL / URLs by File
 
@@ -350,6 +350,8 @@
 - https://create.roblox.com/docs/marketplace/frequently-asked-questions
 - https://www.tipranks.com/news/the-fly/roblox-says-on-track-to-pay-out-1b-to-creators-in-2025-thefly
 - https://rolearn.dev/insights/roblox-developer-revenue-share-2026/
+- https://github.com/Roblox/studio-rust-mcp-server
+- https://www.obby.fun/blog/claude-ai-roblox-studio
 - https://www.roblox.com/communities/33331483/Secret-Staycation
 - https://roblog.jp/studio/himitsu-interview/
 - https://dca-japan.jp/roblox-japan-market-2026/
@@ -374,9 +376,9 @@
 | zenn.dev | 13 |
 | support.google.com | 12 |
 | developers.facebook.com | 7 |
+| github.com | 7 |
 | help-note.com | 7 |
 | developers.cloudflare.com | 6 |
-| github.com | 6 |
 | prtimes.jp | 6 |
 | developers.google.com | 5 |
 | docs.github.com | 5 |
@@ -499,6 +501,7 @@
 | npa.go.jp | 1 |
 | nta.go.jp | 1 |
 | numata-kankou.jp | 1 |
+| obby.fun | 1 |
 | obunsha.co.jp | 1 |
 | oishiinumata.jp | 1 |
 | ollama.com | 1 |
