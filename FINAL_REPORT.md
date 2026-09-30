@@ -174,7 +174,7 @@
 
 ## 8. 出典 / Sources
 *All sources are listed in sources.md.*
-- `sources.md`：重複を除いた**URL 325件・発行元（ドメイン）188件**（指示書の条件「60件以上」を満たす）
+- `sources.md`：重複を除いた**URL 327件・発行元（ドメイン）189件**（指示書の条件「60件以上」を満たす）
 - 調査：`02_research/`（R7 競合〔要約版 `R7.md`・詳細版 `R7_detail.md`。本文の「R7-xx」は詳細版の出典ID〕、R8 規約・未成年、R9 需要、R10 自動化のコスト、`summary.md`）
 
 ## 9. ファイル一覧 / Files
