@@ -2,8 +2,8 @@
 
 確認日：2026-09-29（各調査ファイルの出典表に、ID・発行元・一次/参考の区分・取得方法の備考がある。本ファイルはURLの一覧）
 
-- **重複を除いたURL：327件**
-- **独立した発行元（ドメイン）：189件**（指示書の条件：全体で60件以上）
+- **重複を除いたURL：336件**
+- **独立した発行元（ドメイン）：193件**（指示書の条件：全体で60件以上）
 
 ## 1. ファイル別のURL / URLs by File
 
@@ -364,6 +364,21 @@
 - https://www.mext.go.jp/a_menu/shotou/zyouhou/detail/mext_01832.html
 - https://senseiichiba.com/
 
+### 01_analysis
+
+- https://cocreco.kodansha.co.jp/anehime/news/interview/vPN2r
+- https://www.moguravr.com/roblox-escape-running-head/
+- https://news.denfaminicogamer.jp/news/2604202d
+- https://note.com/samurox_studio/n/na493f3024ff0
+- https://create.roblox.com/docs/production/publishing/kids-and-select
+- https://about.roblox.com/newsroom/2026/04/introducing-roblox-plus-subscription
+- https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166
+
+### 03_setup_and_design
+
+- https://devforum.roblox.com/t/studio-mcp-server-updates-and-external-llm-support-for-assistant/4415631
+- https://backyarddrunkard.com/game-guides/connect-claude-to-roblox-studio-mcp-guide/
+
 ### FINAL_REPORT
 
 - https://www.gunma-u.ac.jp/admission/adm001/g2099
@@ -380,14 +395,15 @@
 | help-note.com | 7 |
 | developers.cloudflare.com | 6 |
 | prtimes.jp | 6 |
+| create.roblox.com | 5 |
 | developers.google.com | 5 |
 | docs.github.com | 5 |
 | bunka.go.jp | 4 |
-| create.roblox.com | 4 |
 | help.x.com | 4 |
 | inf.gunma-u.ac.jp | 4 |
 | ipa.go.jp | 4 |
 | mext.go.jp | 4 |
+| note.com | 4 |
 | qiita.com | 4 |
 | ai.google.dev | 3 |
 | aic.pref.gunma.jp | 3 |
@@ -396,7 +412,7 @@
 | docs.x.com | 3 |
 | huggingface.co | 3 |
 | kinzai.or.jp | 3 |
-| note.com | 3 |
+| about.roblox.com | 2 |
 | anthropic.com | 2 |
 | apps.apple.com | 2 |
 | book.impress.co.jp | 2 |
@@ -404,6 +420,7 @@
 | devcommunity.x.com | 2 |
 | developer.chrome.com | 2 |
 | developers.openai.com | 2 |
+| devforum.roblox.com | 2 |
 | edu.watch.impress.co.jp | 2 |
 | facebook.com | 2 |
 | gihyo.jp | 2 |
@@ -416,6 +433,7 @@
 | laws.e-gov.go.jp | 2 |
 | lemonsqueezy.com | 2 |
 | lycbiz.com | 2 |
+| moguravr.com | 2 |
 | resend.com | 2 |
 | stability.ai | 2 |
 | sukyojuku.com | 2 |
@@ -424,7 +442,6 @@
 | voicevox.hiroshiba.jp | 2 |
 | www3.jitec.ipa.go.jp | 2 |
 | about.fb.com | 1 |
-| about.roblox.com | 1 |
 | accesspartnership.com | 1 |
 | accesstrade.ne.jp | 1 |
 | af.moshimo.com | 1 |
@@ -436,6 +453,7 @@
 | anko.education | 1 |
 | apps.ankiweb.net | 1 |
 | azumino-e-tabi.net | 1 |
+| backyarddrunkard.com | 1 |
 | baitoru.com | 1 |
 | benesse.jp | 1 |
 | blog.studyvalley.jp | 1 |
@@ -446,6 +464,7 @@
 | clovanote.line.me | 1 |
 | coconala-support.zendesk.com | 1 |
 | coconala.com | 1 |
+| cocreco.kodansha.co.jp | 1 |
 | comfyui-wiki.com | 1 |
 | creator.line.me | 1 |
 | crowdworks.my.salesforce-sites.com | 1 |
@@ -494,8 +513,8 @@
 | kyoiku.metro.tokyo.lg.jp | 1 |
 | lancers.jp | 1 |
 | mhlw.go.jp | 1 |
-| moguravr.com | 1 |
 | moj.go.jp | 1 |
+| news.denfaminicogamer.jp | 1 |
 | nichibun-g.co.jp | 1 |
 | notta.ai | 1 |
 | npa.go.jp | 1 |
