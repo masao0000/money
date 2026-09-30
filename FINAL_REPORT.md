@@ -174,7 +174,7 @@
 
 ## 8. 出典 / Sources
 *All sources are listed in sources.md.*
-- `sources.md`：重複を除いた**URL 304件・発行元（ドメイン）171件**（指示書の条件「60件以上」を満たす）
+- `sources.md`：重複を除いた**URL 325件・発行元（ドメイン）188件**（指示書の条件「60件以上」を満たす）
 - 調査：`02_research/`（R7 競合〔要約版 `R7.md`・詳細版 `R7_detail.md`。本文の「R7-xx」は詳細版の出典ID〕、R8 規約・未成年、R9 需要、R10 自動化のコスト、`summary.md`）
 
 ## 9. ファイル一覧 / Files
@@ -191,6 +191,7 @@
 | `07_kit/` | 1位案のキット（説明資料・連絡文・質問・企画書・価格表・紹介文・チェックリスト・記録の型） |
 | `09_certs_expansion.md` | 追加の検討：1位案の仕組みを社会人の資格に広げる案（お金だけで評価） |
 | `10_money_only.md` | 追加の検討：お金だけで考えた「とにかく稼げること」（アルバイトを含めた比較） |
+| `11_blue_ocean.md` | 追加の検討：水平思考で探した「手放しで稼げる」ブルーオーシャン（本命：Roblox） |
 
 ## 10. 追加の検討：社会人の資格への展開 / Expanding to Adult Certification Exams
 *We also checked whether the same system can earn more with adult exams.*
@@ -201,3 +202,9 @@
 *If money is the only goal, a part-time job earns about twenty times more than the PC plans.*
 - 詳細は `10_money_only.md`。【意見】**お金だけなら、答えはアルバイト**（学期中の週末＋長期休みの短期）。2027年7月までの中央は**約20万円（幅12〜29万円）**【推定】で、PC案（中央約1万円）の約20倍。
 - 最大の関門は**校則**（許可・届出）。18歳未満は22時〜翌5時に働けない。タイミーなどのスキマバイトは18歳から。「高額・即日・簡単」をうたうSNSの求人は闇バイトの可能性が高い。
+
+## 12. 追加の検討：水平思考で探したブルーオーシャン / Blue Ocean by Lateral Thinking
+*The best new lead is a short Roblox game about everyday life in Japan.*
+- 詳細は `11_blue_ocean.md`。【意見】最有力は**Robloxで「日本の日常」を題材にした短いゲーム**。Robloxは客・決済・換金（13歳以上、18歳未満は保護者の同意）をすべて持っており、今までの案の弱点（客が来ない・未成年は決済が使えない）を解く。
+- 【事実】日本の1日の利用者は2年で+120%、日本発ゲームの収益の57%は海外から。一方で、換金できる日本の作り手は3年で+415%＝**窓は閉じつつある**。
+- 見込み【推定】：1年目の中央は約1.5万円相当（最低換金額に届かない可能性が高い）、楽観で年約44万円。**くじに近い**ので、やるなら冬休み前（12月下旬）に公開する。

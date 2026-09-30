@@ -2,8 +2,8 @@
 
 確認日：2026-09-29（各調査ファイルの出典表に、ID・発行元・一次/参考の区分・取得方法の備考がある。本ファイルはURLの一覧）
 
-- **重複を除いたURL：304件**
-- **独立した発行元（ドメイン）：171件**（指示書の条件：全体で60件以上）
+- **重複を除いたURL：325件**
+- **独立した発行元（ドメイン）：188件**（指示書の条件：全体で60件以上）
 
 ## 1. ファイル別のURL / URLs by File
 
@@ -338,6 +338,30 @@
 - https://www.gov-online.go.jp/prg/prg27114.html
 - https://www.npa.go.jp/bureau/safetylife/yamibaito/hanzaishaboshu.html
 
+### 11_blue_ocean
+
+- https://www.moguravr.com/roblox-japan-digital-economy-report/
+- https://accesspartnership.com/reports/supporting-japans-digital-economy-robloxs-role-in-empowering-users-creators-and-influencers/
+- https://about.roblox.com/newsroom/2025/12/how-roblox-impacts-the-global-economy
+- https://create.roblox.com/docs/creator-rewards
+- https://create.roblox.com/docs/production/monetization/developer-exchange
+- https://en.help.roblox.com/hc/en-us/articles/115005718246-Developer-Exchange-Terms-of-Use
+- https://create.roblox.com/docs/production/monetization/18-plus-devex-rate
+- https://create.roblox.com/docs/marketplace/frequently-asked-questions
+- https://www.tipranks.com/news/the-fly/roblox-says-on-track-to-pay-out-1b-to-creators-in-2025-thefly
+- https://rolearn.dev/insights/roblox-developer-revenue-share-2026/
+- https://www.roblox.com/communities/33331483/Secret-Staycation
+- https://roblog.jp/studio/himitsu-interview/
+- https://dca-japan.jp/roblox-japan-market-2026/
+- https://www.moj.go.jp/isa/publications/press/13_00062.html
+- https://www.mhlw.go.jp/web_magazine/column/20260803.html
+- https://houkaisei.jp/calendar/2026-10/
+- https://www.nichibun-g.co.jp/textbooks/joho/support/2026_joho01_1_note/
+- https://www.jikkyo.co.jp/shidousya/jyouhou/
+- https://www.toyokan.co.jp/products/5153
+- https://www.mext.go.jp/a_menu/shotou/zyouhou/detail/mext_01832.html
+- https://senseiichiba.com/
+
 ### FINAL_REPORT
 
 - https://www.gunma-u.ac.jp/admission/adm001/g2099
@@ -357,9 +381,11 @@
 | developers.google.com | 5 |
 | docs.github.com | 5 |
 | bunka.go.jp | 4 |
+| create.roblox.com | 4 |
 | help.x.com | 4 |
 | inf.gunma-u.ac.jp | 4 |
 | ipa.go.jp | 4 |
+| mext.go.jp | 4 |
 | qiita.com | 4 |
 | ai.google.dev | 3 |
 | aic.pref.gunma.jp | 3 |
@@ -368,7 +394,6 @@
 | docs.x.com | 3 |
 | huggingface.co | 3 |
 | kinzai.or.jp | 3 |
-| mext.go.jp | 3 |
 | note.com | 3 |
 | anthropic.com | 2 |
 | apps.apple.com | 2 |
@@ -397,6 +422,8 @@
 | voicevox.hiroshiba.jp | 2 |
 | www3.jitec.ipa.go.jp | 2 |
 | about.fb.com | 1 |
+| about.roblox.com | 1 |
+| accesspartnership.com | 1 |
 | accesstrade.ne.jp | 1 |
 | af.moshimo.com | 1 |
 | affiliate.amazon.co.jp | 1 |
@@ -421,11 +448,13 @@
 | creator.line.me | 1 |
 | crowdworks.my.salesforce-sites.com | 1 |
 | dansuki.jp | 1 |
+| dca-japan.jp | 1 |
 | dev-discuss.pytorch.org | 1 |
 | developers.line.biz | 1 |
 | dncl.jp | 1 |
 | docs.ollama.com | 1 |
 | eftc.or.jp | 1 |
+| en.help.roblox.com | 1 |
 | ffmpeg.org | 1 |
 | forest.watch.impress.co.jp | 1 |
 | fruit-gari.com | 1 |
@@ -439,6 +468,7 @@
 | help.coconala.com | 1 |
 | help.qiita.com | 1 |
 | helpfeel.com | 1 |
+| houkaisei.jp | 1 |
 | ifttt.com | 1 |
 | iizuna-furusato.com | 1 |
 | info-study.jp | 1 |
@@ -451,6 +481,7 @@
 | ja-nagano.iijan.or.jp | 1 |
 | japanpost.jp | 1 |
 | jetpack.com | 1 |
+| jikkyo.co.jp | 1 |
 | joho1-exam-quiz.com | 1 |
 | jp-news.mercari.com | 1 |
 | jp.stanby.com | 1 |
@@ -460,6 +491,10 @@
 | kentei.ne.jp | 1 |
 | kyoiku.metro.tokyo.lg.jp | 1 |
 | lancers.jp | 1 |
+| mhlw.go.jp | 1 |
+| moguravr.com | 1 |
+| moj.go.jp | 1 |
+| nichibun-g.co.jp | 1 |
 | notta.ai | 1 |
 | npa.go.jp | 1 |
 | nta.go.jp | 1 |
@@ -485,10 +520,14 @@
 | revenuecat.com | 1 |
 | ringo-nagano.net | 1 |
 | ringodaigaku.com | 1 |
+| roblog.jp | 1 |
+| roblox.com | 1 |
+| rolearn.dev | 1 |
 | saastr.com | 1 |
 | samsung.com | 1 |
 | sc-beginners.com | 1 |
 | sekachan.net | 1 |
+| senseiichiba.com | 1 |
 | social-dog.net | 1 |
 | stat.go.jp | 1 |
 | stripe.com | 1 |
@@ -507,7 +546,9 @@
 | techcrunch.com | 1 |
 | techweez.com | 1 |
 | terms.help-note.com | 1 |
+| tipranks.com | 1 |
 | tomshardware.com | 1 |
+| toyokan.co.jp | 1 |
 | u-can.co.jp | 1 |
 | u22procon.com | 1 |
 | we-love.gunma.jp | 1 |
