@@ -2,8 +2,8 @@
 
 確認日：2026-09-29（各調査ファイルの出典表に、ID・発行元・一次/参考の区分・取得方法の備考がある。本ファイルはURLの一覧）
 
-- **重複を除いたURL：336件**
-- **独立した発行元（ドメイン）：193件**（指示書の条件：全体で60件以上）
+- **重複を除いたURL：344件**
+- **独立した発行元（ドメイン）：197件**（指示書の条件：全体で60件以上）
 
 ## 1. ファイル別のURL / URLs by File
 
@@ -379,6 +379,17 @@
 - https://devforum.roblox.com/t/studio-mcp-server-updates-and-external-llm-support-for-assistant/4415631
 - https://backyarddrunkard.com/game-guides/connect-claude-to-roblox-studio-mcp-guide/
 
+### 13_offline_app
+
+- https://support.google.com/googleplay/android-developer/answer/14151465?hl=ja
+- https://bysho2.com/blog/google-play-closed-test-checklist-2026
+- https://note.com/natty_yarrow1907/n/n9d7ba73d3e6d
+- https://qiita.com/NonamedDeveloper/items/23c4bbe3c7d4f9bc2204
+- https://support.google.com/googleplay/android-developer/answer/11926878?hl=en
+- https://discussions.apple.com/thread/6441831
+- https://www.businessinsider.jp/article/2512-japan-smartphone-act-apple-google/
+- https://news.yahoo.co.jp/expert/articles/19a2540e3bc2e7d6196e7f3c377f95cf0b0eb957
+
 ### FINAL_REPORT
 
 - https://www.gunma-u.ac.jp/admission/adm001/g2099
@@ -388,8 +399,8 @@
 | ドメイン | 件数 |
 |---|---|
 | booth.pm | 17 |
+| support.google.com | 14 |
 | zenn.dev | 13 |
-| support.google.com | 12 |
 | developers.facebook.com | 7 |
 | github.com | 7 |
 | help-note.com | 7 |
@@ -398,13 +409,13 @@
 | create.roblox.com | 5 |
 | developers.google.com | 5 |
 | docs.github.com | 5 |
+| note.com | 5 |
+| qiita.com | 5 |
 | bunka.go.jp | 4 |
 | help.x.com | 4 |
 | inf.gunma-u.ac.jp | 4 |
 | ipa.go.jp | 4 |
 | mext.go.jp | 4 |
-| note.com | 4 |
-| qiita.com | 4 |
 | ai.google.dev | 3 |
 | aic.pref.gunma.jp | 3 |
 | booth.pixiv.help | 3 |
@@ -458,7 +469,9 @@
 | benesse.jp | 1 |
 | blog.studyvalley.jp | 1 |
 | buffer.com | 1 |
+| businessinsider.jp | 1 |
 | buttondown.com | 1 |
+| bysho2.com | 1 |
 | chiilabo.com | 1 |
 | city.tondabayashi.lg.jp | 1 |
 | clovanote.line.me | 1 |
@@ -472,6 +485,7 @@
 | dca-japan.jp | 1 |
 | dev-discuss.pytorch.org | 1 |
 | developers.line.biz | 1 |
+| discussions.apple.com | 1 |
 | dncl.jp | 1 |
 | docs.ollama.com | 1 |
 | eftc.or.jp | 1 |
@@ -515,6 +529,7 @@
 | mhlw.go.jp | 1 |
 | moj.go.jp | 1 |
 | news.denfaminicogamer.jp | 1 |
+| news.yahoo.co.jp | 1 |
 | nichibun-g.co.jp | 1 |
 | notta.ai | 1 |
 | npa.go.jp | 1 |
